@@ -1,9 +1,11 @@
-🎯 Number Guessing Game (Python CLI)
+ Number Guessing Game (Python CLI)
 
+This project is part of the roadmap.sh Developer Projects list.
+📌 Project Link: https://roadmap.sh/projects/number-guessing-game
 A simple and fun command-line Number Guessing Game built in Python.
 The computer picks a random number between 1 and 100, and you try to guess it with limited chances based on the difficulty level.
 
-🚀 Features
+ Features
 
 ✔ Random number generation
 ✔ Difficulty levels (Easy / Medium / Hard)
@@ -15,7 +17,7 @@ The computer picks a random number between 1 and 100, and you try to guess it wi
 ✔ High-score tracking
 ✔ Pure CLI — runs in any terminal
 
-📦 How to Run the Project
+ How to Run the Project
 1. Clone the repository
 git clone https://github.com/sidhvik17/number-guessing-game.git
 
@@ -61,6 +63,5 @@ No external libraries needed (uses built-in modules)
 
 
 
-👨‍💻 Author
-
+Author
 sidhvik
