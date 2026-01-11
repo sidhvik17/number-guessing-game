@@ -58,11 +58,7 @@ Python 3.x
 
 No external libraries needed (uses built-in modules)
 
-🌟 Project Link
 
-🔗 GitHub Repository:
-https://github.com/
-sidhvik17/number-guessing-game
 
 
 👨‍💻 Author
